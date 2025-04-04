@@ -1,0 +1,14 @@
+2025-04-04 12:22:43.059196 - Received CBT.V508.FILE597.PDS from FILE597.XMI 
+2025-04-04 12:22:43.060139 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:22:43.060297 - Found $$INDEX.txt (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/$$INDEX
+2025-04-04 12:22:43.060431 - Found $$NOTE0.eml (message/rfc822) in CBT.V508.FILE597.PDS, moved to PDS/$$NOTE0
+2025-04-04 12:22:43.060555 - Found $$NOTE1.eml (message/rfc822) in CBT.V508.FILE597.PDS, moved to PDS/$$NOTE1
+2025-04-04 12:22:43.060673 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/$$NOTE2
+2025-04-04 12:22:43.060804 - Found $$README.txt (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/$$README
+2025-04-04 12:22:43.060954 - Found $COMMAND.jcl (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/$COMMAND
+2025-04-04 12:22:43.061092 - Found $MPFCMDS.jcl (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/$MPFCMDS
+2025-04-04 12:22:43.061213 - Found $MPFPROC.txt (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/$MPFPROC
+2025-04-04 12:22:43.061335 - Found @FILE597.txt (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/@FILE597
+2025-04-04 12:22:43.061448 - Found IEE043I.txt (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/IEE043I
+2025-04-04 12:22:43.061563 - Found IEF176I.txt (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/IEF176I
+2025-04-04 12:22:43.061676 - Found IFB080E.txt (text/plain) in CBT.V508.FILE597.PDS, moved to PDS/IFB080E
